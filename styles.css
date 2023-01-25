@@ -8,6 +8,7 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
 html {
     scroll-behavior: smooth;
 }
@@ -331,6 +332,7 @@ color: #ababab;
 
 .contact-right form {
     width: 100%;
+    
 }
 form input, form textarea {
     width: 100%;
@@ -341,6 +343,7 @@ form input, form textarea {
     margin: 15px 0;
     font-size: 18px;
     border-radius: 6px;
+    color:#fff
 }
 
 form btn2{
